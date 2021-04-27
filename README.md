@@ -1,6 +1,6 @@
 # Realidad_Aumentada_navegation with wikitude 
 
-Este es nuestro Projecto final de la materia de Tendencias Actuales! consta de una  aplicación (APP) con realidad aumentada hecha con wikitude y android studio, utilizando el Fragmento  navegation drawer del android studio 
+Hello este es un  Projecto final de la materia de Tendencias Actuales! consta de una  aplicación (APP) con realidad aumentada hecha con wikitude y android studio, utilizando el Fragmento  navegation drawer del android studio 
 
 
 Se trabajo con la version del android studio 4.1.1 : https://developer.android.com/studio
